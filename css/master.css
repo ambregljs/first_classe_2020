@@ -1,0 +1,21 @@
+body{
+background-color: rgba(255, 229, 9, 0.5);
+text-align-last: center;
+}
+
+figure{
+  width: 100vw;
+  border: 1px solid;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+figure img{
+  width: 100;
+}
+
+section{
+  background-color: rgba(246, 244, 229, 0.5);
+  max-width: 843px;
+  margin: 0 auto;
+}
